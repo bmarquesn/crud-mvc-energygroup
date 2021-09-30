@@ -6,7 +6,7 @@ Sistema todo desenvolvido em PHP puro, sem framework, MySql, JS / Jquery, CSS e 
 
 Coloque os arquivos dentro de uma pasta do seu servidor Apache. Ex.: E:\\laragon\\crud-mvc-smartteam
 
-Execute em seu banco de dados o arquivo assets/docs/crud_mvc_smartteam.sql
+Execute em seu banco de dados o arquivo assets/docs/crud_mvc_energygroup.sql
 
 Para acessar utilize:
 E-mail: teste@teste.com.br
