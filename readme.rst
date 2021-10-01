@@ -12,5 +12,5 @@ Para acessar utilize:
 E-mail: teste@teste.com.br
 Senha: teste
 
-Para testar crie usuários e as dívidas destes. As dívidas são contabilizadas tendo em referência o dia atual.
-Assim, na tela de Dívidas é possível visualizar quantas dívidas estão vencidas e quantas dívidas que estão para serem pagas.
+Para testar crie usuários e os benefícios destes. As benefícios são contabilizadas tendo em referência o dia atual.
+Assim, na tela de Benefícios é possível visualizar quantos benefícios estão vencidos e quantos benefícios que estão para serem pagos.
